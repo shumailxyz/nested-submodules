@@ -1,0 +1,3 @@
+[submodule "nested-submodule-child"]
+	path = nested-submodule-child
+	url = git@github.com:shumailxyz/nested-submodule-child.git
